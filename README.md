@@ -31,10 +31,6 @@
 
 ### 📊 My stat
 <div align="center">
-  <img src="https://github-readme-stats-six-lime-88.vercel.app/api?username=IlyaStub&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs&v=20" />
-
-  <img height="170px" src="https://github-readme-stats-six-lime-88.vercel.app/api/top-langs/?username=IlyaStub&layout=compact&theme=radical&count_private=true&include_all_commits=true&v=20" />
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlyaStub&theme=radical" />
+  <img height="195" src="https://github-readme-stats-six-lime-88.vercel.app/api?username=IlyaStub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs&v=25" />
+  <img height="195" src="https://github-readme-stats-six-lime-88.vercel.app/api/top-langs/?username=IlyaStub&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&v=25" />
 </div>
